@@ -11,6 +11,7 @@ A functional MVP vertical slice: `Sensor Data (nRF)` $ightarrow$ `Tiered Gatewa
 ## Decisions so far
 - [The Gateway Tiering Model](https://github.com/ConnectedEdge/connectededge/issues/2): Three tiers (Sniffer, Proxy, Orchestrator) based on software capabilities, with a direct NB-IoT path for cellular devices.
 - [The 'Model Slot' Architecture](https://github.com/ConnectedEdge/connectededge/issues/3): Decoupled memory map using a dedicated Model Slot and Config Slot for safe, hot-swappable model updates.
+- [The ML Workflow Wrapper](https://github.com/ConnectedEdge/connectededge/issues/5): No-code pipeline using a Generic Model Runner and Semantic Tensor Mapping for device-agnostic deployment.
 
 ## Not yet specified
 - **Backend Storage Strategy**: Efficiency of high-frequency time-series data storage.
