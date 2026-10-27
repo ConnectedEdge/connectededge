@@ -1,5 +1,7 @@
 # Ticket: The ML Workflow Wrapper
 **Label**: `wayfinder:grilling`
+**Issue**: https://github.com/ConnectedEdge/connectededge/issues/5
+**Status**: Resolved
 
 ## Question
 The goal is to make the platform "intuitive." Users shouldn't be writing C code to deploy a TFLite Micro model.

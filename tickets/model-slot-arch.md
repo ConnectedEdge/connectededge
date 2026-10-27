@@ -1,5 +1,7 @@
 # Ticket: The "Model Slot" Architecture
 **Label**: `wayfinder:prototype`
+**Issue**: https://github.com/ConnectedEdge/connectededge/issues/3
+**Status**: Resolved
 
 ## Question
 To solve the "Last Mile," we need a mechanism to update ML models without full firmware updates.

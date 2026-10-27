@@ -1,5 +1,7 @@
 # Ticket: The Gateway Tiering Model
 **Label**: `wayfinder:grilling`
+**Issue**: https://github.com/ConnectedEdge/connectededge/issues/2
+**Status**: Resolved
 
 ## Question
 We have identified three levels of gateways: **Sniffer**, **Proxy**, and **Orchestrator**. We need to define the precise functional boundary and hardware requirements for each.

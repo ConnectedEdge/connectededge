@@ -1,5 +1,6 @@
 # Ticket: Backend Storage Strategy
 **Label**: `wayfinder:research`
+**Status**: Resolved
 
 ## Question
 We need to store high-frequency time-series sensor data efficiently. What storage technology and architecture should we use?
